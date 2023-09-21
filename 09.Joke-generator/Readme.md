@@ -2,6 +2,8 @@
 
 [Website](https://chuck-norris-api-json.netlify.app/)
 
+![Website](https://res.cloudinary.com/dygywvyiq/image/upload/v1695296921/Capture_d_e%CC%81cran_2023-09-21_a%CC%80_13.48.32_kvxdrq.png)
+
 This is a Chuck Norris jokes app that fetches and displays Chuck Norris facts and jokes from the Chuck Norris API. It's built using vanilla JavaScript and allows users to enjoy Chuck Norris humor in the form of random facts and jokes.
 
 ## Features
