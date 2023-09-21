@@ -1,4 +1,5 @@
 # Shopping List
+chuck-norris-api-json.netlify.app/
 
 Vanilla JavaScript shopping list app from Brad Traversy Modern JS From The Beginning course.
 
